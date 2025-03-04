@@ -65,15 +65,6 @@ You can now inspect the AES encryption signals in GTKWave.
 
 ---
 
-## **Files in this Repository**
-
-- **aes.v** → Verilog implementation of AES-128 encryption.
-- **tb_aes.v** → Testbench to verify AES encryption.
-- **makefile** → Automates compilation and simulation.
-- **README.md** → This file (setup & usage guide).
-
----
-
 ## **Troubleshooting**
 
 1. **Command not found errors?**
